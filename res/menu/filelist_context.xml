@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/ctm_rename"
+        android:enabled="true"
+        android:title="@string/ctm_rename"
+        android:visible="true">
+    </item>
+    <item
+        android:id="@+id/ctm_delete"
+        android:enabled="true"
+        android:title="@string/ctm_delete"
+        android:visible="true">
+    </item>
+    <item
+        android:id="@+id/ctm_view"
+        android:enabled="true"
+        android:title="@string/ctm_view"
+        android:visible="true">
+    </item>
+
+</menu>

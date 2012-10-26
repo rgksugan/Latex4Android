@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/otm_save"
+        android:enabled="true"
+        android:title="@string/otm_save"
+        android:visible="true">
+    </item>
+    <item
+        android:id="@+id/otm_showtoolbar"
+        android:enabled="true"
+        android:title="@string/otm_showtoolbar"
+        android:visible="true">
+    </item>
+    <item
+        android:id="@+id/otm_hidetoolbar"
+        android:enabled="true"
+        android:title="@string/otm_hidetoolbar"
+        android:visible="true">
+    </item>
+    <item
+        android:id="@+id/otm_disableHigh"
+        android:enabled="true"
+        android:title="@string/disable_high"
+        android:visible="true">
+    </item>
+    <item
+        android:id="@+id/otm_enableHigh"
+        android:enabled="true"
+        android:title="@string/enable_high"
+        android:visible="true">
+    </item>
+    <item
+        android:id="@+id/otm_pdf"
+        android:title="@string/otm_generate" android:visible="true" android:enabled="true">
+    </item>
+    <item android:id="@+id/otm_showsearchbar" android:title="@string/otm_showsearch" android:visible="true" android:enabled="true"></item>
+    <item android:id="@+id/otm_hidesearchbar" android:title="@string/otm_hidesearch" android:visible="true" android:enabled="true"></item>
+
+</menu>

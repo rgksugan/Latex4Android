@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Latext Android Editor</string>
+    <string name="btn_save">Save</string>
+    <string name="projectname">New project name</string>
+    <string name="btn_create">Create</string>
+    <string name="otm_save">Save</string>
+    <string name="otm_showtoolbar">Show Toolbar</string>
+    <string name="btn_curlyright">}</string>
+    <string name="btn_curlyleft">{</string>
+    <string name="btn_squareright">]</string>
+    <string name="btn_squareleft">[</string>
+    <string name="btn_backslash">\\</string>
+    <string name="btn_down">V</string>
+    <string name="otm_hidetoolbar">Hide Toolbar</string>
+    <string name="ctm_delete">Delete</string>
+    <string name="btn_dollar">$</string>
+    <string name="disable_high">Disable Highlighting</string>
+    <string name="enable_high">Enable Highlighting</string>
+    <string name="otm_generate">Generate PDF</string>
+    <string name="txt_username">User Name</string>
+    <string name="txt_Password">Password</string>
+    <string name="txt_ipaddress">Ip Address</string>
+    <string name="txt_portno">Port Number</string>
+    <string name="btn_generate">Generate</string>
+    <string name="ctm_rename">Rename</string>
+    <string name="ctm_view">Open</string>
+    <string name="otm_refresh">Refresh</string>
+    <string name="otm_about">About</string>
+    <string name="otm_import">Import Files</string>
+    <string name="txt_search">Search</string>
+
+    <string-array name="Expansion">
+        <item>One Column</item>
+        <item>Two Column</item>
+    </string-array>
+
+    <string name="spn_expansion">Expansion</string>
+    <string name="btn_insert">Insert</string>
+    <string name="btn_position">Position</string>
+    <string name="chk_insert">Insert as Float</string>
+    <string name="chk_center">Center Horizontal</string>
+    <string name="chk_width">Text Width</string>
+    <string name="chk_inflation">Inflation</string>
+    <string name="txt_filename">File Name</string>
+    <string name="txt_caption">Caption</string>
+    <string name="txt_label">Label</string>
+
+    <string-array name="Alignment">
+        <item>Align at top line</item>
+        <item>Align at centre of table</item>
+        <item>Align at bottom line</item>
+    </string-array>
+
+    <string name="spn_alignment">Alignment</string>
+    <string name="btn_figure">Figure</string>
+    <string name="btn_table">Table</string>
+    <string name="btn_search">Search</string>
+    <string name="btn_current">Select current folder</string>
+    <string name="btn_up">Up</string>
+    <string name="txt_longcontent">Current folder: \n/THis/is/a/long/path/to/test/if/this/will/span/multiple/lines</string>
+    <string name="btn_viewlog">View Log</string>
+    <string name="btn_viewPDF">View PDF</string>
+    <string name="btn_ok">OK</string>
+    <string name="lbl_draw">Draw Here</string>
+    <string name="txt_result">Result</string>
+    <string name="otm_showsearch">Show SearchBar</string>
+    <string name="otm_hidesearch">Hide SearchBar</string>
+    <string name="btn_symbol">Symbol</string>
+    <string name="btn_prev">Prev</string>
+    <string name="btn_next">Next</string>
+    <string name="btn_replace">Replace</string>
+    <string name="btn_replaceall">Replace All</string>
+    <string name="txt_replace">Replace with</string>
+
+</resources>
